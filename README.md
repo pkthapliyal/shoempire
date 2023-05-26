@@ -7,12 +7,13 @@ An individual project of e commerce-website .
 - Back-end: https://upset-raincoat-newt.cyclic.app/
 
 # Tech Stack
+  Front-end
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="70"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70"/> 
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="100"/>
+ Back-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="100"/>
           
-          
-          
-          
+              
 # About
 # Homepage 
 - This page has a nav bar with has, reference link for further page including , product page, sign-up, sign-in
