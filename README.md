@@ -1,5 +1,5 @@
-# pushy-feeling-2669
-An individual project of e commerce-website . 
+# Clarks clone
+This website is clone of Clarks website which is an internationl brand for variour type of shoes.
 
 ## Inportant links : 
 
