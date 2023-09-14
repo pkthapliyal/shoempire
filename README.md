@@ -1,19 +1,7 @@
 # Clarks clone
 This website is a clone of Clark's website which is an international brand for various types of shoes.
 
-## Important links : 
-
-- Front-end: https://shoempire.netlify.app/
-- Back-end: https://upset-raincoat-newt.cyclic.app/
-
-## Tech Stack
-  ### Front-end
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="70"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70"/> 
-
- ### Back-end
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="100"/>
-          
-              
+                     
 # About
 ## Homepage 
 - This page has a nav bar with has, reference links for further pages including, the product page, sign-up, sign-in
@@ -57,7 +45,17 @@ This website is a clone of Clark's website which is an international brand for v
 - Invoice
  ![image](https://github.com/pkthapliyal/pushy-feeling-2669/assets/121335947/a942dd5b-6194-4e17-abf1-c29cc04489e9)
 
+## Important links : 
 
+- Front-end: https://shoempire.netlify.app/
+- Back-end: https://upset-raincoat-newt.cyclic.app/
+
+## Tech Stack
+  ### Front-end
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="70"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70"/> 
+
+ ### Back-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="100"/>
 
 
 
